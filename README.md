@@ -1,7 +1,4 @@
 # About Me:
-```
-Building applications one **sting**-fueled commit at a time.
-```
 Hey, I'm **Gab** 👋
 - Full-stack developer focused on clean architecture and scalable APIs
 - Currently building SRSLY, a spaced-repetition platform for LeetCode review
